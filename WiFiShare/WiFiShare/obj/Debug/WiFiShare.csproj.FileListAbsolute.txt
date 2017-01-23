@@ -1,0 +1,12 @@
+F:\T\WiFiShare\WiFiShare\bin\Debug\WiFiShare.exe.config
+F:\T\WiFiShare\WiFiShare\bin\Debug\WiFiShare.exe
+F:\T\WiFiShare\WiFiShare\bin\Debug\WiFiShare.pdb
+F:\T\WiFiShare\WiFiShare\obj\Debug\WiFiShare.csprojResolveAssemblyReference.cache
+F:\T\WiFiShare\WiFiShare\obj\Debug\WiFiShare.Form1.resources
+F:\T\WiFiShare\WiFiShare\obj\Debug\WiFiShare.Properties.Resources.resources
+F:\T\WiFiShare\WiFiShare\obj\Debug\WiFiShare.csproj.GenerateResource.Cache
+F:\T\WiFiShare\WiFiShare\obj\Debug\WiFiShare.exe
+F:\T\WiFiShare\WiFiShare\obj\Debug\WiFiShare.pdb
+F:\T\WiFiShare\WiFiShare\obj\Debug\Interop.NATUPNPLib.dll
+F:\T\WiFiShare\WiFiShare\obj\Debug\Interop.NETCONLib.dll
+F:\T\WiFiShare\WiFiShare\obj\Debug\WiFiShare.csproj.ResolveComReference.cache
